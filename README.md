@@ -12,4 +12,4 @@ flutter package get
 
 ![Vista](instagram.jpg)
 
-By: Diseño hecho por Mao Lop https://www.facebook.com/MaooLopez96
+By: Prototitpo del diseño hecho por Mao Lop https://www.facebook.com/MaooLopez96
